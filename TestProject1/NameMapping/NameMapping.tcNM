@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{24CE268F-DF21-4BBE-B3A4-C82E5BD02EBA}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{36AC7951-EA35-4FB2-949A-F6E09418E008}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{8B0174F5-0F3C-4257-89B3-DE4F99E35306}">
+								<Image FileName="1324274338" Left="-11" Top="-11" Right="1931" Bottom="1031" />
+								<TypeInfo Item0="{1704A7FA-30DD-42E2-BAF1-898CFE019301}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{02E72C3D-86D0-4933-840C-B9D7158B7B68}">
+								<Image FileName="-934063958" Left="-11" Top="-11" Right="1931" Bottom="1031" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="2" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageGitBook" Key="{890B465D-BE6C-43F1-B514-9C9B72F107B0}">
+								<Image FileName="-934063958" Left="0" Top="106" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://git-scm.com/book/en/v2" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode1" Key="{910E1958-6360-471A-A8CC-BD408ECD15B4}">
+										<Image FileName="-934063958" Left="688" Top="543" Right="1278" Bottom="5259" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ol[contains(., &apos;1.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ol[contains(@class, &apos;book-toc&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;main&apos;]/ol" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode12" Key="{51901386-EAF2-4026-B752-0B010712BFB1}">
+										<Image FileName="-934063958" Left="688" Top="543" Right="1278" Bottom="873" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;1.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ol/li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode13" Key="{AB422BBE-F28D-49F8-8954-A6D71A0816B9}">
+										<Image FileName="-934063958" Left="688" Top="543" Right="1278" Bottom="609" />
+										<TypeInfo Item0="{71D1FF52-B2ED-4B3F-97C0-6C3E49E79111}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h2[contains(text(), &apos;1.&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;main&apos;]//li/h2" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/h2" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeDocumentation" Key="{92C6DC51-DEBC-45B3-BE9B-52B098E2D761}">
+										<Image FileName="-1052972168" Left="0" Top="72" Right="1895" Bottom="5529" />
+										<TypeInfo Item0="{71D1FF52-B2ED-4B3F-97C0-6C3E49E79111}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#documentation" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(., &apos;--distributed-even-if-your-workflow-isnt&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageCuraHealthcareService" Key="{FC9A8FB3-1CA8-4A36-BA0C-D2B8FE082AB7}">
+								<Image FileName="412536852" Left="11" Top="120" Right="1565" Bottom="979" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://katalon-demo-cura.herokuapp.com/profile.php*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionLogin" Key="{35CFBC05-83CD-4762-938D-E88E5BA4EDD8}">
+										<Image FileName="412536852" Left="11" Top="120" Right="1540" Bottom="862" />
+										<Selectors>
+											<Selector>
+												<Value Value="#login" />
+											</Selector>
+											<Selector>
+												<Value Value="section[contains(., &apos;Login&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="section[contains(@class, &apos;section&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formDemoAccount" Key="{56E9E05F-5B45-49E0-A7D4-047F9E86285E}">
+										<Image FileName="412536852" Left="434" Top="364" Right="1117" Bottom="765" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Demo account&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;authenticate.php&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;form-horizontal&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsername" Key="{C941B40B-CA70-4351-87D4-7A26F312B3AE}">
+										<Image FileName="412536852" Left="677" Top="566" Right="1117" Bottom="617" />
+										<TypeInfo Item0="{321D9D12-8DE5-4907-BD09-D4393FCF12FE}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Username&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#txt-username" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section//form/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{AA58D841-4475-4D82-B0BC-5599B89A97C3}">
+										<Image FileName="1256636056" Left="677" Top="640" Right="1117" Bottom="691" />
+										<TypeInfo Item0="{321D9D12-8DE5-4907-BD09-D4393FCF12FE}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Password&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#txt-password" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section//form/div[3]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonBtnLogin" Key="{BC7256C0-A51C-4DB8-8F42-A54B939951B6}">
+										<Image FileName="-1411812987" Left="677" Top="713" Right="765" Bottom="764" />
+										<TypeInfo Item0="{1F6965F3-0144-41E5-8B33-8A22024B81E5}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#btn-login" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[.=&apos;Login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{36AC7951-EA35-4FB2-949A-F6E09418E008}">
+			<Child Name="BrowserWindow" Owner="{8B0174F5-0F3C-4257-89B3-DE4F99E35306}" />
+			<Child Name="BrowserWindow2" Owner="{02E72C3D-86D0-4933-840C-B9D7158B7B68}" />
+			<Child Name="pageGitBook" Owner="{890B465D-BE6C-43F1-B514-9C9B72F107B0}">
+				<Child Name="textnode1" Owner="{910E1958-6360-471A-A8CC-BD408ECD15B4}">
+					<Child Name="textnode12" Owner="{51901386-EAF2-4026-B752-0B010712BFB1}">
+						<Child Name="textnode13" Owner="{AB422BBE-F28D-49F8-8954-A6D71A0816B9}" />
+					</Child>
+				</Child>
+				<Child Name="textnodeDocumentation" Owner="{92C6DC51-DEBC-45B3-BE9B-52B098E2D761}" />
+			</Child>
+			<Child Name="pageCuraHealthcareService" Owner="{FC9A8FB3-1CA8-4A36-BA0C-D2B8FE082AB7}">
+				<Child Name="sectionLogin" Owner="{35CFBC05-83CD-4762-938D-E88E5BA4EDD8}">
+					<Child Name="formDemoAccount" Owner="{56E9E05F-5B45-49E0-A7D4-047F9E86285E}">
+						<Child Name="textboxUsername" Owner="{C941B40B-CA70-4351-87D4-7A26F312B3AE}" />
+						<Child Name="passwordboxPassword" Owner="{AA58D841-4475-4D82-B0BC-5599B89A97C3}" />
+						<Child Name="buttonBtnLogin" Owner="{BC7256C0-A51C-4DB8-8F42-A54B939951B6}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
