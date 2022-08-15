@@ -215,8 +215,13 @@
 								</Children>
 							</Child>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<Child Name="pageShop" Key="{A6D7B52C-6EB5-4D8C-808E-986D462210A6}">
 								<Image FileName="369492762" Left="0" Top="154" Right="1920" Bottom="1020" />
+=======
+							<Child Name="pageNewtab" Key="{F020E8FB-B7F2-426F-8B41-8FA7089E59E7}">
+								<TypeInfo Item0="{0147F1F9-CD08-4AE9-B45A-6825DB0F11FB}" />
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 =======
 							<Child Name="pageNewtab" Key="{F020E8FB-B7F2-426F-8B41-8FA7089E59E7}">
 								<TypeInfo Item0="{0147F1F9-CD08-4AE9-B45A-6825DB0F11FB}" />
@@ -226,6 +231,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
+<<<<<<< HEAD
 <<<<<<< HEAD
 										<Value Value="https://services.smartbear.com/samples/TestComplete12/smartstore/" />
 									</Property>
@@ -291,18 +297,24 @@
 								<Image FileName="369492762" Left="0" Top="154" Right="1920" Bottom="1020" />
 								<TypeInfo Item0="{8B17168D-2FC3-47F9-8C4B-22949A68BFFF}" />
 =======
+=======
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 										<Value Value="edge://newtab/" />
 									</Property>
 								</Properties>
 							</Child>
 							<Child Name="pageCuraHealthcareService2" Key="{7D4CBA82-2296-45B5-B7DD-635F58FCF11C}">
 								<Image FileName="805112697" Left="11" Top="168" Right="1574" Bottom="992" />
+<<<<<<< HEAD
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
+=======
 >>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 								<Properties>
 									<Property Name="ObjectType">
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
+<<<<<<< HEAD
 <<<<<<< HEAD
 										<Value Value="https://services.smartbear.com/samples/TestComplete12/smartstore/login*" />
 									</Property>
@@ -455,6 +467,8 @@
 											<Selector>
 												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//ul/li" />
 =======
+=======
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 										<Value Value="https://katalon-demo-cura.herokuapp.com/" />
 									</Property>
 								</Properties>
@@ -491,6 +505,9 @@
 											</Selector>
 											<Selector>
 												<Value Value="//div/a" />
+<<<<<<< HEAD
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
+=======
 >>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 											</Selector>
 										</Selectors>
@@ -525,6 +542,7 @@
 				</Child>
 			</Child>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<Child Name="pageShop" Owner="{A6D7B52C-6EB5-4D8C-808E-986D462210A6}">
 				<Child Name="header" Owner="{747B908A-FA9F-4231-93B4-2E23E37819B8}">
 					<Child Name="navUsd" Owner="{9E57F4F3-594C-4EB3-AD59-EF5014E77DED}">
@@ -544,10 +562,15 @@
 					<Child Name="textnodeLoginWasUnsuccessfulPlea" Owner="{44AA0173-9602-4D96-B27C-EB43F927418B}" />
 					<Child Name="textnodeTheCredentialsProvidedAr" Owner="{4372A7CE-091F-48DB-8D51-D5BDAFA3DD35}" />
 =======
+=======
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 			<Child Name="pageNewtab" Owner="{F020E8FB-B7F2-426F-8B41-8FA7089E59E7}" />
 			<Child Name="pageCuraHealthcareService2" Owner="{7D4CBA82-2296-45B5-B7DD-635F58FCF11C}">
 				<Child Name="headerTop" Owner="{FE886A66-40A5-43B8-80A3-CAEAADE35244}">
 					<Child Name="linkBtnMakeAppointment" Owner="{0DF465A9-4A54-44FD-BEA1-0F261ADC4E93}" />
+<<<<<<< HEAD
+>>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
+=======
 >>>>>>> 59f05ae1e5bbebfbf11fe7a308ba00267fbac7f2
 				</Child>
 			</Child>
