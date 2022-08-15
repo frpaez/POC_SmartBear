@@ -212,6 +212,18 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeLoginFailedPleaseEnsureT" Key="{7C6645A7-5D42-4EC2-ADED-1653EB150692}">
+										<Image FileName="1881380897" Left="93" Top="350" Right="1803" Bottom="394" />
+										<TypeInfo Item0="{71D1FF52-B2ED-4B3F-97C0-6C3E49E79111}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[.=&apos;Login failed! Please ensure the username and password are valid.&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p[contains(@class, &apos;text-danger&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageShop" Key="{A6D7B52C-6EB5-4D8C-808E-986D462210A6}">
@@ -518,6 +530,7 @@
 						<Child Name="passwordboxPassword" Owner="{AA58D841-4475-4D82-B0BC-5599B89A97C3}" />
 						<Child Name="buttonBtnLogin" Owner="{BC7256C0-A51C-4DB8-8F42-A54B939951B6}" />
 					</Child>
+					<Child Name="textnodeLoginFailedPleaseEnsureT" Owner="{7C6645A7-5D42-4EC2-ADED-1653EB150692}" />
 				</Child>
 			</Child>
 			<Child Name="pageShop" Owner="{A6D7B52C-6EB5-4D8C-808E-986D462210A6}">
