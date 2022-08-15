@@ -214,6 +214,65 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageNewtab" Key="{F020E8FB-B7F2-426F-8B41-8FA7089E59E7}">
+								<TypeInfo Item0="{0147F1F9-CD08-4AE9-B45A-6825DB0F11FB}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="edge://newtab/" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageCuraHealthcareService2" Key="{7D4CBA82-2296-45B5-B7DD-635F58FCF11C}">
+								<Image FileName="805112697" Left="11" Top="168" Right="1574" Bottom="992" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://katalon-demo-cura.herokuapp.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerTop" Key="{FE886A66-40A5-43B8-80A3-CAEAADE35244}">
+										<Image FileName="-602078365" Left="11" Top="120" Right="1549" Bottom="870" />
+										<Selectors>
+											<Selector>
+												<Value Value="#top" />
+											</Selector>
+											<Selector>
+												<Value Value="header[contains(., &apos;CURA Healthcare Service&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="header[contains(@class, &apos;header&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkBtnMakeAppointment" Key="{0DF465A9-4A54-44FD-BEA1-0F261ADC4E93}">
+										<Image FileName="-1034235933" Left="647" Top="439" Right="912" Bottom="508" />
+										<TypeInfo Item0="{71D1FF52-B2ED-4B3F-97C0-6C3E49E79111}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#btn-make-appointment" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[.=&apos;Make Appointment&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -239,6 +298,12 @@
 						<Child Name="passwordboxPassword" Owner="{AA58D841-4475-4D82-B0BC-5599B89A97C3}" />
 						<Child Name="buttonBtnLogin" Owner="{BC7256C0-A51C-4DB8-8F42-A54B939951B6}" />
 					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageNewtab" Owner="{F020E8FB-B7F2-426F-8B41-8FA7089E59E7}" />
+			<Child Name="pageCuraHealthcareService2" Owner="{7D4CBA82-2296-45B5-B7DD-635F58FCF11C}">
+				<Child Name="headerTop" Owner="{FE886A66-40A5-43B8-80A3-CAEAADE35244}">
+					<Child Name="linkBtnMakeAppointment" Owner="{0DF465A9-4A54-44FD-BEA1-0F261ADC4E93}" />
 				</Child>
 			</Child>
 		</Child>
