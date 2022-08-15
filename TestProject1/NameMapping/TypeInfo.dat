@@ -157,7 +157,10 @@
 			</FunctionDescriptions>
 		</Data>
 	</Child>
-	<Child Hash="-1187879528" Key="{0147F1F9-CD08-4AE9-B45A-6825DB0F11FB}">
+	<Child Hash="-1187879528" Key="{8B17168D-2FC3-47F9-8C4B-22949A68BFFF}">
+		<Data Properties="CDABB4D996CA0B42896DE7402D45B45AUFFFFFFFFFFFFFFFFV4L8ZZY">
+	
+  <Child Hash="-1187879528" Key="{0147F1F9-CD08-4AE9-B45A-6825DB0F11FB}">
 		<Data Properties="1AAA6E46C570AF4199A02C54F8BCF104UFFFFFFFFFFFFFFFFV4L8ZZY">
 			<FunctionDescriptions>
 				<Child Name="Close" Doc="Closes a page open in the browser." IsBasic="True" Data="ZI4L1L4ZN18ZN">
