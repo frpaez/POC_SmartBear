@@ -2,6 +2,11 @@
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<child name="Login_002" key="{9A7636B8-0A71-4F06-8E89-BE8E78991ADC}" path="Login_002.tcKDTest" />
+
+		<child name="TC_LOGIN_004" key="{5605F904-3E24-457C-8794-50D8CC993245}" path="TC_LOGIN_004.tcKDTest" />
+
 		<child name="Login_001" key="{63425256-A6D8-43F9-91B5-C56A14B07EA8}" path="Login_001.tcKDTest" />
+    
+		<child name="Login_003" key="{AB498CA4-8350-4986-9EE9-306EF4836DEF}" path="Login_003.tcKDTest" />
 	</children>
 </Root>
